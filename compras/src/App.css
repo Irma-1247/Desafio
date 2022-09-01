@@ -1,0 +1,42 @@
+.App-content{
+  text-align: center;
+  background-color: #D2E8E3;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-link {
+  color: #D2E8E3;
+}
+
+.container{
+  margin: 8%;
+  max-width: 75%;
+}
+
+#tot{
+  text-align: right;
+}
+
+#tit{
+  font-size: 200%;
+  font-weight: bold;
+}
+
+button{
+  width: 75%;
+}
+
+thead{
+  background-color: #347355;
+  color: white;
+}
+
+#tot{
+  background-color: #347355;
+  color: white;
+  font-weight: bold;
+}
